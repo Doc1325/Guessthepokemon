@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="jquery-ui.min.css">
+  <script src="external/jquery/jquery.js"></script>
+  <script src="jquery-ui.min.js"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" type="image/x-icon" href="images/icons/pokeball closed.png">
+
+  <title>Guess the Pokemon</title>
+</head>
+<script type="module" src="logic.js"></script>
+
+<body>
+  <h1 class="question-text">Quien es este Pokémon?</h2>
+    <div class="game">
+      <div class="score">
+        <h3 class="points">Puntos: </h3>
+        <h3 class="record">Record: </h3>
+
+      </div>
+
+      <img class="pokemon-img" src="" draggable="false" />
+      <div class="lives">
+        <img class="life" src="images/icons/pokeball closed.png" alt="">
+        <img class="life" src="images/icons/pokeball closed.png" alt="">
+        <img class="life" src="images/icons/pokeball closed.png" alt="">
+        <img class="life" src="images/icons/pokeball closed.png" alt="">
+        <img class="life" src="images/icons/pokeball closed.png" alt="">
+        <img class="life" src="images/icons/pokeball closed.png" alt="">
+      </div>
+      <input list="" id="autocomplete" class="answer-input" name="answer" type="text"
+        placeholder="Escriba el nombre del pokemon">
+      <h3 class="answer-text"></h3>
+
+      <button class="answer-btn">Responder</button>
+      <button class="next-btn">Siguiente</button>
+
+
+    </div>
+</body>
+
+
+
+</html>
