@@ -1,6 +1,7 @@
 # Guessthepokemon
  Quiz de pokemon usando   hecho con HTML, CSS , JavaScript y la Poke Api
 
+Despliegue: https://capable-moxie-88a878.netlify.app
 
 
 
