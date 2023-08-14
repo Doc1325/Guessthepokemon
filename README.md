@@ -1,5 +1,5 @@
-# Guessthepokemon
- Quiz de pokemon usando   hecho con HTML, CSS , JavaScript y la Poke Api 
+s# Guessthepokemon
+ Quiz de pokemon hecho con HTML, CSS , JavaScript y la Poke Api 
 
 
 
