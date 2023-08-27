@@ -7,5 +7,5 @@ Deploy🌐: https://capable-moxie-88a878.netlify.app
 
 
 
- ![captura](https://github.com/Doc1325/Guessthepokemon/assets/57734968/56b998a0-7d92-4a5f-85fa-b24c91d8a63e)
+![image](https://github.com/Doc1325/Guessthepokemon/assets/57734968/04a0dee5-d7c9-452b-aab8-e999c5843136)
 
