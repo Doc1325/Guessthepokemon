@@ -1,4 +1,4 @@
-{
+export const pokedex = {
     "count": 1010,
     "next": null,
     "previous": null,
